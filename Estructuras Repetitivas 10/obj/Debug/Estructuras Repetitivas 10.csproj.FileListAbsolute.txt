@@ -1,0 +1,10 @@
+C:\Users\Hector D\source\repos\Estructuras Repetitivas 10\bin\Debug\Estructuras Repetitivas 10.exe.config
+C:\Users\Hector D\source\repos\Estructuras Repetitivas 10\bin\Debug\Estructuras Repetitivas 10.exe
+C:\Users\Hector D\source\repos\Estructuras Repetitivas 10\bin\Debug\Estructuras Repetitivas 10.pdb
+C:\Users\Hector D\source\repos\Estructuras Repetitivas 10\obj\Debug\Estructuras Repetitivas 10.csproj.AssemblyReference.cache
+C:\Users\Hector D\source\repos\Estructuras Repetitivas 10\obj\Debug\Estructuras_Repetitivas_10.Form1.resources
+C:\Users\Hector D\source\repos\Estructuras Repetitivas 10\obj\Debug\Estructuras_Repetitivas_10.Properties.Resources.resources
+C:\Users\Hector D\source\repos\Estructuras Repetitivas 10\obj\Debug\Estructuras Repetitivas 10.csproj.GenerateResource.cache
+C:\Users\Hector D\source\repos\Estructuras Repetitivas 10\obj\Debug\Estructuras Repetitivas 10.csproj.CoreCompileInputs.cache
+C:\Users\Hector D\source\repos\Estructuras Repetitivas 10\obj\Debug\Estructuras Repetitivas 10.exe
+C:\Users\Hector D\source\repos\Estructuras Repetitivas 10\obj\Debug\Estructuras Repetitivas 10.pdb
