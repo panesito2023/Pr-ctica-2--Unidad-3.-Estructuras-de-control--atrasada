@@ -1,0 +1,10 @@
+C:\Users\Hector D\source\repos\Estructuras Repetitivas 3\bin\Debug\Estructuras Repetitivas 3.exe.config
+C:\Users\Hector D\source\repos\Estructuras Repetitivas 3\bin\Debug\Estructuras Repetitivas 3.exe
+C:\Users\Hector D\source\repos\Estructuras Repetitivas 3\bin\Debug\Estructuras Repetitivas 3.pdb
+C:\Users\Hector D\source\repos\Estructuras Repetitivas 3\obj\Debug\Estructuras Repetitivas 3.csproj.AssemblyReference.cache
+C:\Users\Hector D\source\repos\Estructuras Repetitivas 3\obj\Debug\Estructuras_Repetitivas_3.Form1.resources
+C:\Users\Hector D\source\repos\Estructuras Repetitivas 3\obj\Debug\Estructuras_Repetitivas_3.Properties.Resources.resources
+C:\Users\Hector D\source\repos\Estructuras Repetitivas 3\obj\Debug\Estructuras Repetitivas 3.csproj.GenerateResource.cache
+C:\Users\Hector D\source\repos\Estructuras Repetitivas 3\obj\Debug\Estructuras Repetitivas 3.csproj.CoreCompileInputs.cache
+C:\Users\Hector D\source\repos\Estructuras Repetitivas 3\obj\Debug\Estructuras Repetitivas 3.exe
+C:\Users\Hector D\source\repos\Estructuras Repetitivas 3\obj\Debug\Estructuras Repetitivas 3.pdb

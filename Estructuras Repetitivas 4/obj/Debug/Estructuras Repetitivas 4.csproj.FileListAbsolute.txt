@@ -1,0 +1,20 @@
+C:\Users\Hector D\source\repos\Estructuras Repetitivas 4\bin\Debug\Estructuras Repetitivas 4.exe.config
+C:\Users\Hector D\source\repos\Estructuras Repetitivas 4\bin\Debug\Estructuras Repetitivas 4.exe
+C:\Users\Hector D\source\repos\Estructuras Repetitivas 4\bin\Debug\Estructuras Repetitivas 4.pdb
+C:\Users\Hector D\source\repos\Estructuras Repetitivas 4\obj\Debug\Estructuras Repetitivas 4.csproj.AssemblyReference.cache
+C:\Users\Hector D\source\repos\Estructuras Repetitivas 4\obj\Debug\Estructuras_Repetitivas_4.Form1.resources
+C:\Users\Hector D\source\repos\Estructuras Repetitivas 4\obj\Debug\Estructuras_Repetitivas_4.Properties.Resources.resources
+C:\Users\Hector D\source\repos\Estructuras Repetitivas 4\obj\Debug\Estructuras Repetitivas 4.csproj.GenerateResource.cache
+C:\Users\Hector D\source\repos\Estructuras Repetitivas 4\obj\Debug\Estructuras Repetitivas 4.csproj.CoreCompileInputs.cache
+C:\Users\Hector D\source\repos\Estructuras Repetitivas 4\obj\Debug\Estructuras Repetitivas 4.exe
+C:\Users\Hector D\source\repos\Estructuras Repetitivas 4\obj\Debug\Estructuras Repetitivas 4.pdb
+C:\Users\Hector D\source\repos\Práctica 2, Unidad 3. Estructuras de control\Estructuras Repetitivas 4\bin\Debug\Estructuras Repetitivas 4.exe.config
+C:\Users\Hector D\source\repos\Práctica 2, Unidad 3. Estructuras de control\Estructuras Repetitivas 4\bin\Debug\Estructuras Repetitivas 4.exe
+C:\Users\Hector D\source\repos\Práctica 2, Unidad 3. Estructuras de control\Estructuras Repetitivas 4\bin\Debug\Estructuras Repetitivas 4.pdb
+C:\Users\Hector D\source\repos\Práctica 2, Unidad 3. Estructuras de control\Estructuras Repetitivas 4\obj\Debug\Estructuras Repetitivas 4.csproj.AssemblyReference.cache
+C:\Users\Hector D\source\repos\Práctica 2, Unidad 3. Estructuras de control\Estructuras Repetitivas 4\obj\Debug\Estructuras_Repetitivas_4.Form1.resources
+C:\Users\Hector D\source\repos\Práctica 2, Unidad 3. Estructuras de control\Estructuras Repetitivas 4\obj\Debug\Estructuras_Repetitivas_4.Properties.Resources.resources
+C:\Users\Hector D\source\repos\Práctica 2, Unidad 3. Estructuras de control\Estructuras Repetitivas 4\obj\Debug\Estructuras Repetitivas 4.csproj.GenerateResource.cache
+C:\Users\Hector D\source\repos\Práctica 2, Unidad 3. Estructuras de control\Estructuras Repetitivas 4\obj\Debug\Estructuras Repetitivas 4.csproj.CoreCompileInputs.cache
+C:\Users\Hector D\source\repos\Práctica 2, Unidad 3. Estructuras de control\Estructuras Repetitivas 4\obj\Debug\Estructuras Repetitivas 4.exe
+C:\Users\Hector D\source\repos\Práctica 2, Unidad 3. Estructuras de control\Estructuras Repetitivas 4\obj\Debug\Estructuras Repetitivas 4.pdb

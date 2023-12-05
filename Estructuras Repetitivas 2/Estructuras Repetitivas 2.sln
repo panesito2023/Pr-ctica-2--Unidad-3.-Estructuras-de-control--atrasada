@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Estructuras Repetitivas 2", "Estructuras Repetitivas 2.csproj", "{CD8FC9ED-F0F3-4623-93EE-C7EE50D99742}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD8FC9ED-F0F3-4623-93EE-C7EE50D99742}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD8FC9ED-F0F3-4623-93EE-C7EE50D99742}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD8FC9ED-F0F3-4623-93EE-C7EE50D99742}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD8FC9ED-F0F3-4623-93EE-C7EE50D99742}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DD6A89A5-F002-493F-9421-DF65011A3235}
+	EndGlobalSection
+EndGlobal
