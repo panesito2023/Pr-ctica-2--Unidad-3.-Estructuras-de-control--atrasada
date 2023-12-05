@@ -1,0 +1,20 @@
+C:\Users\Hector D\source\repos\Estructuras Repetitivas 8\bin\Debug\Estructuras Repetitivas 8.exe.config
+C:\Users\Hector D\source\repos\Estructuras Repetitivas 8\bin\Debug\Estructuras Repetitivas 8.exe
+C:\Users\Hector D\source\repos\Estructuras Repetitivas 8\bin\Debug\Estructuras Repetitivas 8.pdb
+C:\Users\Hector D\source\repos\Estructuras Repetitivas 8\obj\Debug\Estructuras Repetitivas 8.csproj.AssemblyReference.cache
+C:\Users\Hector D\source\repos\Estructuras Repetitivas 8\obj\Debug\Estructuras_Repetitivas_8.Form1.resources
+C:\Users\Hector D\source\repos\Estructuras Repetitivas 8\obj\Debug\Estructuras_Repetitivas_8.Properties.Resources.resources
+C:\Users\Hector D\source\repos\Estructuras Repetitivas 8\obj\Debug\Estructuras Repetitivas 8.csproj.GenerateResource.cache
+C:\Users\Hector D\source\repos\Estructuras Repetitivas 8\obj\Debug\Estructuras Repetitivas 8.csproj.CoreCompileInputs.cache
+C:\Users\Hector D\source\repos\Estructuras Repetitivas 8\obj\Debug\Estructuras Repetitivas 8.exe
+C:\Users\Hector D\source\repos\Estructuras Repetitivas 8\obj\Debug\Estructuras Repetitivas 8.pdb
+C:\Users\Hector D\source\repos\Práctica 2, Unidad 3. Estructuras de control\Estructuras Repetitivas 8\bin\Debug\Estructuras Repetitivas 8.exe.config
+C:\Users\Hector D\source\repos\Práctica 2, Unidad 3. Estructuras de control\Estructuras Repetitivas 8\bin\Debug\Estructuras Repetitivas 8.exe
+C:\Users\Hector D\source\repos\Práctica 2, Unidad 3. Estructuras de control\Estructuras Repetitivas 8\bin\Debug\Estructuras Repetitivas 8.pdb
+C:\Users\Hector D\source\repos\Práctica 2, Unidad 3. Estructuras de control\Estructuras Repetitivas 8\obj\Debug\Estructuras Repetitivas 8.csproj.AssemblyReference.cache
+C:\Users\Hector D\source\repos\Práctica 2, Unidad 3. Estructuras de control\Estructuras Repetitivas 8\obj\Debug\Estructuras_Repetitivas_8.Form1.resources
+C:\Users\Hector D\source\repos\Práctica 2, Unidad 3. Estructuras de control\Estructuras Repetitivas 8\obj\Debug\Estructuras_Repetitivas_8.Properties.Resources.resources
+C:\Users\Hector D\source\repos\Práctica 2, Unidad 3. Estructuras de control\Estructuras Repetitivas 8\obj\Debug\Estructuras Repetitivas 8.csproj.GenerateResource.cache
+C:\Users\Hector D\source\repos\Práctica 2, Unidad 3. Estructuras de control\Estructuras Repetitivas 8\obj\Debug\Estructuras Repetitivas 8.csproj.CoreCompileInputs.cache
+C:\Users\Hector D\source\repos\Práctica 2, Unidad 3. Estructuras de control\Estructuras Repetitivas 8\obj\Debug\Estructuras Repetitivas 8.exe
+C:\Users\Hector D\source\repos\Práctica 2, Unidad 3. Estructuras de control\Estructuras Repetitivas 8\obj\Debug\Estructuras Repetitivas 8.pdb
